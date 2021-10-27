@@ -17,7 +17,7 @@ public class BasicInputLoop {
             System.out.println("Positive numbers: " + positive);
         } while (a != 0 || b != 0);
 
-        System.out.println("End");
+        System.out.println("End1");
     }
 
 }
